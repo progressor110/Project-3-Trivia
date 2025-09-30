@@ -1,12 +1,12 @@
 # Project-3-Trivia
 This repository is for practicing creating a user interface that asks the user at least three trivia questions, and the user selects a multiple choice answer for each question.
-# Project 3 - *Name of App Here*
+# Project 3 - *Trivia*
 
-Submitted by: **Your Name Here**
+Submitted by: **Marcus Ezell**
 
-**Name of your app** is an app that ... [TODO] 
+**Trivia** is an app that asks you a certain number of questions along with you choosing one of the four answers to answer the each question. 
 
-Time spent: **X** hours spent in total
+Time spent: **1** hour(s) spent in total
 
 ## Required Features
 
