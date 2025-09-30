@@ -29,3 +29,4 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
       
 ## Video Walkthrough
+https://github.com/progressor110/Project-3-Trivia/blob/main/ScreenRecording2025-09-29at11.52.52PM-ezgif.com-video-to-gif-converter.gif
